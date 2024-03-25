@@ -1,9 +1,10 @@
 地方,#genre#
-凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
-凤凰中文2,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-凤凰资讯(电信),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯2,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-凤凰资讯3,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+太原综合,http://tytv-hls.cutv.com/49VAfrw/500/65o45V0.m3u8?sign=7abbc5202cf7a723159108a6c455e505&t=d2b2a396
+太原百姓,http://tytv-hls.cutv.com/u8BmT6h/500/33ru5B0.m3u8?sign=7b75b05f6de2d3fa77d658f229610d1d&t=d2b2a3c6
+太原法制,http://tytv-hls.cutv.com/phsry3e/500/f9p5b0y.m3u8?sign=5ee8c7381e97f65df64b75081c04669b&t=d2b2af6d
+太原影视,http://tytv-hls.cutv.com/J4EX72D/500/07uJ5E0.m3u8?sign=d4f779ac7b34c3d7cb8106fb1e935dd1&t=d2b2776e
+太原文体,http://tytv-hls.cutv.com/rk8Z088/500/l39r580.m3u8?sign=07b6df0ee2b9bb3279e0222936e3afa2&t=d2b2af78
+黄河电视台,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/12tl5e0.m3u8
 ﻿五台电视台,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 ﻿定襄电视台,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8
 ﻿原平电视台,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
@@ -97,6 +98,12 @@ BRTV北京卫视HD,http://123.117.235.102:4022/rtp/239.3.1.241:8000
 天津卫视HD,http://123.117.235.102:4022/rtp/239.3.1.141:1234
 深圳卫视HD,http://123.117.235.102:4022/rtp/239.3.1.134:8020
 江西卫视HD,http://123.117.235.102:4022/rtp/239.3.1.123:8164
+山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+凤凰中文2,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰资讯(电信),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰资讯2,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+凤凰资讯3,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 
 其他频道,#genre#
 金鹰纪实HD,http://123.117.235.102:4022/rtp/239.3.1.58:8156
