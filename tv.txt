@@ -48,7 +48,6 @@
 ﻿长治教育频道,http://111.53.105.2:8084/2b7f0174d0f44c34bf466fc0ab801a3a/h264_300k_ts/index.m3u8?type=hls_live_redirect
 ﻿交城电视台,http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 ﻿柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8
-
 央视频道,#genre#
 CCTV-1 HD,http://123.117.235.102:4022/rtp/239.3.1.129:8008
 CCTV-2 HD,http://123.117.235.102:4022/rtp/239.3.1.60:8084
@@ -71,7 +70,6 @@ CCTV-16 奥林匹克HD,http://123.117.235.102:4022/rtp/239.3.1.184:8001
 CCTV-17 HD,http://123.117.235.102:4022/rtp/239.3.1.151:8144
 CCTV-4 中文国际 欧洲HD,http://123.117.235.102:4022/rtp/239.3.1.213:4220
 CCTV-4 中文国际 美洲HD,http://123.117.235.102:4022/rtp/239.3.1.214:4220
-
 卫视频道,#genre#
 吉林卫视HD,http://123.117.235.102:4022/rtp/239.3.1.240:8172
 江苏卫视HD,http://123.117.235.102:4022/rtp/239.3.1.135:8028
@@ -98,7 +96,6 @@ BRTV北京卫视HD,http://123.117.235.102:4022/rtp/239.3.1.241:8000
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
 凤凰资讯,http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-
 其他频道,#genre#
 金鹰纪实HD,http://123.117.235.102:4022/rtp/239.3.1.58:8156
 幸福剧场HD,http://123.117.235.102:4022/rtp/239.3.1.112:8001
@@ -146,8 +143,6 @@ CGTN 法语HD,http://123.117.235.102:4022/rtp/239.3.1.218:4220
 每日影院HD,http://123.117.235.102:4022/rtp/239.3.1.111:8001
 淘精彩HD,http://123.117.235.102:4022/rtp/239.3.1.178:8001
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-
-测试频道,#genre#
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -354,7 +349,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
-
 小地方,#genre#
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -386,7 +380,6 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-
 咪咕移动,#genre#
 北京冬奥纪实,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
 北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
@@ -537,7 +530,6 @@ CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/P
 CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CETV-1 综合教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 CETV-4 职业教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
-
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
@@ -711,7 +703,6 @@ CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909
 咪咕直播-40,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 咪咕直播-41,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 咪咕直播-42,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
 IPV6-2,#genre#
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
