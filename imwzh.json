@@ -52,7 +52,6 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "XYQ"
             },
-            ,
             {
             "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/XYQ.json"
             "name": "XYQ备用",
@@ -260,6 +259,10 @@
             {
             "name": "pandown",
             "url": "http://pandown.pro/tvbox/tvbox.json"
+            },
+            {
+            "name": "100KM",
+            "url": "https://100km.top/0"
             }
       ]
 }
