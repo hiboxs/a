@@ -260,10 +260,6 @@
             {
             "name": "pandown",
             "url": "http://pandown.pro/tvbox/tvbox.json"
-            },
-            {
-            "name": "100KM",
-            "url": "https://100km.top/0"
             }
       ]
 }
