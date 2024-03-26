@@ -251,6 +251,14 @@
             {
             "name": "业余",
             "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
+            },
+            {
+            "name": "测试1",
+            "url": "https://weixine.net/ysc.json"
+            },
+            {
+            "name": "测试2",
+            "url": "https://weixine.net/ysc.json"
             }
 
       ]
