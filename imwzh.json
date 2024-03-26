@@ -37,10 +37,6 @@
             "name": "肥猫"
             },
             {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝"
-            },
-            {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风"
             },
@@ -54,8 +50,13 @@
             },
             {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "XYQT"
+            "name": "XYQ"
             },
+            ,
+            {
+            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/XYQ.json"
+            "name": "XYQ备用",
+            }
             {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧技"
@@ -257,9 +258,12 @@
             "url": "https://weixine.net/ysc.json"
             },
             {
-            "name": "测试2",
-            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/XYQ.json"
+            "name": "pandown",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+            },
+            {
+            "name": "100KM",
+            "url": "https://100km.top/0"
             }
-
       ]
 }
