@@ -263,6 +263,10 @@
 {
 "name": "100KM",
 "url": "https://100km.top/0"
+},
+{
+"name": "测试线路",
+"url": "http://www.wya6.cn/tv/yc.json"
 }
 ]
 }
