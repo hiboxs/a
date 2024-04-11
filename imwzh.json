@@ -9,16 +9,12 @@
             "url": "https://wds.ecsxs.com/230989.json"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
-            "name": "月光宝盒"
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼"
         },
         {
-            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-            "name": "月光宝盒PRO"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-            "name": "月光VIP"
+            "name": "失眠",
+            "url": "http://清清.摸鱼儿.top"
         },
         {
             "url": "https://zzzzz.tv/tv/tvbox.json",
@@ -121,12 +117,8 @@
             "name": "喵影视"
         },
         {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "摸鱼"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json",
-            "name": "乌鸦"
+            "name": "乌鸦",
+            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json"
         },
         {
             "name": "小脑斧",
@@ -233,6 +225,18 @@
             "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
         },
         {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
+            "name": "月光宝盒"
+        },
+        {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+            "name": "月光宝盒PRO"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "月光VIP"
+        },
+        {
             "name": "运输车",
             "url": "https://weixine.net/ysc.json"
         },
@@ -267,6 +271,14 @@
         {
             "name": "动漫",
             "url": "https://www.yingm.cc/dm/dm.json"
+        },
+        {
+            "name": "此多仓接口长期维护，关注",
+            "url": "https://d.kstore.space/download/7672/nx.json"
+        },
+        {
+            "name": "公众号【武志红的杂货铺】",
+            "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
 }
