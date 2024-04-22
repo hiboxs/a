@@ -5,7 +5,7 @@
             "name": "👍饭太硬"
         },
         {
-            "name": "👍春盈",
+            "name": "春盈",
             "url": "https://盒子迷.top/春盈天下"
         },
         {
@@ -17,12 +17,12 @@
             "url": "http://清清.摸鱼儿.top"
         },
         {
-            "url": "https://zzzzz.tv/tv/tvbox.json",
-            "name": "南瓜zzzzz"
+            "name": "南瓜zzzzz",
+            "url": "https://zzzzz.tv/tv/tvbox.json"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
-            "name": "饭太硬（备用）"
+            "name": "饭太硬（备用）",
+            "url": "http://fan.xxooo.cf/tv"
         },
         {
             "url": "http://xhww.fun/小米/DEMO.json",
@@ -41,7 +41,7 @@
             "name": "奇乐4K"
         },
         {
-            "url": "https://hezi.tvboxhz.top/dxaw0",
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
             "name": "OK"
         },
         {
@@ -77,12 +77,12 @@
             "name": "天天开心"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
             "name": "👍荷城茶秀"
         },
         {
-            "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json",
-            "name": "短剧频道"
+            "url": "https://jihulab.com/ruanjianheku/hekuys/-/raw/main/heku.json",
+            "name": "盒库"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -117,8 +117,8 @@
             "name": "欧歌4K"
         },
         {
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-            "name": "秒播"
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "车妹"
         },
         {
             "url": "http://meowtv.cn/tv",
@@ -141,7 +141,7 @@
             "url": "http://qrh.yimkj.cn/kw/酷玩.json"
         },
         {
-            "name": "万达影视",
+            "name": "太平洋",
             "url": "http://sinopacifichk.com/box/56.txt"
         },
         {
@@ -149,8 +149,8 @@
             "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
         },
         {
-            "name": "️天微影视️",
-            "url": "http://hm16458.k785.icu/tvys/svip.json"
+            "name": "️天微影视",
+            "url": "https://gitee.com/tvkj/tw/raw/main/svip.json"
         },
         {
             "name": "火影影视",
@@ -161,8 +161,8 @@
             "url": "http://www.lyyytv.cn/yt/yt.json"
         },
         {
-            "name": "catbox",
-            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
+            "name": "夜猫",
+            "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子"
         },
         {
             "name": "dxawi",
@@ -177,20 +177,16 @@
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"
         },
         {
-            "name": "️ABC",
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json"
+            "name": "PG",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/jsm.json"
         },
         {
             "name": "猫技",
             "url": "https://m.n13.club"
         },
         {
-            "name": "胖鸭",
-            "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"
-        },
-        {
-            "name": "于氏",
-            "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
+            "name": "拾光",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
         },
         {
             "name": "恋影",
@@ -233,6 +229,10 @@
             "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
         },
         {
+            "name": "业余2",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+        },
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
             "name": "月光宝盒"
         },
@@ -265,8 +265,8 @@
             "url": "https://cn.kstore.space/download/2863/01.txt"
         },
         {
-            "name": "分享者",
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
+            "name": "毒盒",
+            "url": "https://tv.youdu.fan:666/毒盒影视/"
         },
         {
             "name": "神仙",
@@ -281,7 +281,7 @@
             "url": "https://www.yingm.cc/dm/dm.json"
         },
         {
-            "name": "豆豆",
+            "name": "采集",
             "url": "http://router.bopop.buzz:9999/mdxgh.json"
         },
         {
