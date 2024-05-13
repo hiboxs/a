@@ -13,16 +13,20 @@
             "name": "摸鱼"
         },
         {
+            "name": "猫技",
+            "url": "https://m.n13.club"
+        },
+        {
+            "name": "拾光",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
+        },
+        {
             "name": "失眠",
             "url": "http://清清.摸鱼儿.top"
         },
         {
             "name": "南瓜zzzzz",
             "url": "https://zzzzz.tv/tv/tvbox.json"
-        },
-        {
-            "name": "饭太硬（备用）",
-            "url": "http://fan.xxooo.cf/tv"
         },
         {
             "url": "http://xhww.fun/小米/DEMO.json",
@@ -33,8 +37,40 @@
             "name": "小米备用"
         },
         {
+            "name": "吾爱",
+            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
+        },
+        {
+            "name": "星辰",
+            "url": "http://8.210.232.168/xc.json"
+        },
+        {
+            "name": "榴莲",
+            "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
+        },
+        {
+            "name": "无意",
+            "url": "http://www.wya6.cn/tv/yc.json"
+        },
+        {
+            "name": "业余",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+        },
+        {
+            "name": "巧技",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "毒盒",
+            "url": "https://tv.youdu.fan:666/毒盒影视/"
+        },
+        {
+            "name": "盒子迷",
+            "url": "https://盒子迷.top/禁止贩卖"
+        },
+        {
             "url": "http://肥猫.live",
-            "name": "👍肥猫"
+            "name": "肥猫"
         },
         {
             "url": "https://json.qlkjy.cn/kj.json",
@@ -117,14 +153,6 @@
             "name": "欧歌4K"
         },
         {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "车妹"
-        },
-        {
-            "url": "http://meowtv.cn/tv",
-            "name": "喵影视"
-        },
-        {
             "name": "乌鸦",
             "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json"
         },
@@ -135,10 +163,6 @@
         {
             "name": "青木影视",
             "url": "https://aoki.codered.cloud/spider"
-        },
-        {
-            "name": "酷玩影视",
-            "url": "http://qrh.yimkj.cn/kw/酷玩.json"
         },
         {
             "name": "太平洋",
@@ -157,7 +181,7 @@
             "url": "http://jar.lingutv.cn/tvbox/yw/yw.json"
         },
         {
-            "name": "👍影探",
+            "name": "影探",
             "url": "http://www.lyyytv.cn/yt/yt.json"
         },
         {
@@ -181,14 +205,6 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/jsm.json"
         },
         {
-            "name": "猫技",
-            "url": "https://m.n13.club"
-        },
-        {
-            "name": "拾光",
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
-        },
-        {
             "name": "恋影",
             "url": "https://www.lianyingtv.com/fast/fast"
         },
@@ -199,38 +215,6 @@
         {
             "name": "muj",
             "url": "https://tv.lan2wan.top/candymuj1.json"
-        },
-        {
-            "name": "tv520",
-            "url": "http://tv.tv520.shop/"
-        },
-        {
-            "name": "小胡",
-            "url": "http://xiaohu.xzam.cn/xiaohu"
-        },
-        {
-            "name": "吾爱",
-            "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
-        },
-        {
-            "name": "星辰",
-            "url": "http://8.210.232.168/xc.json"
-        },
-        {
-            "name": "榴莲",
-            "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
-        },
-        {
-            "name": "无意",
-            "url": "http://www.wya6.cn/tv/yc.json"
-        },
-        {
-            "name": "业余",
-            "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
-        },
-        {
-            "name": "业余2",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
@@ -249,32 +233,8 @@
             "url": "https://weixine.net/ysc.json"
         },
         {
-            "name": "巧技",
-            "url": "http://pandown.pro/tvbox/tvbox.json"
-        },
-        {
-            "name": "盒子迷",
-            "url": "https://盒子迷.top/禁止贩卖"
-        },
-        {
-            "name": "云星日记",
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-        },
-        {
             "name": "潇洒",
             "url": "https://cn.kstore.space/download/2863/01.txt"
-        },
-        {
-            "name": "毒盒",
-            "url": "https://tv.youdu.fan:666/毒盒影视/"
-        },
-        {
-            "name": "神仙",
-            "url": "http://www.liuyunw.com:88/img"
-        },
-        {
-            "name": "菠菜",
-            "url": "https://d.kstore.space/download/6509/A/B/C/D/E/F/G/CS.json"
         },
         {
             "name": "动漫",
@@ -285,15 +245,15 @@
             "url": "http://router.bopop.buzz:9999/mdxgh.json"
         },
         {
-            "name": "dxaw0",
-            "url": "https://hezi.tvboxhz.top/dxaw0"
-        },
-        {
             "name": "以上接口长期维护，关注",
-            "url": "https://d.kstore.space/download/7672/nx.json"
+            "url": "https://9xi4o.tk/0725.json"
         },
         {
             "name": "公众号【武志红的杂货铺】",
+            "url": "https://d.kstore.space/download/7672/nx.json"
+        },
+        {
+            "name": "最后更新时间:20240513",
             "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
