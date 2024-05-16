@@ -165,8 +165,20 @@
             "url": "https://aoki.codered.cloud/spider"
         },
         {
+            "name": "潇洒",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+        },
+        {
+            "name": "神仙",
+            "url": "http://dp.sxtv.top:88/img"
+        },
+        {
             "name": "太平洋",
             "url": "http://sinopacifichk.com/box/56.txt"
+        },
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "菜妮丝"
         },
         {
             "name": "心魔影视",
@@ -217,6 +229,10 @@
             "url": "https://tv.lan2wan.top/candymuj1.json"
         },
         {
+            "name": "道长",
+            "url": "https://pastebin.com/raw/5NHaxyGR"
+        },
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
             "name": "月光宝盒"
         },
@@ -253,7 +269,7 @@
             "url": "https://d.kstore.space/download/7672/nx.json"
         },
         {
-            "name": "最后更新时间:20240513",
+            "name": "最后更新时间:20240516",
             "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
