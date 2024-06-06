@@ -225,8 +225,8 @@
             "url": "https://szyyds.cn/tv/x.json"
         },
         {
-            "name": "muj",
-            "url": "https://tv.lan2wan.top/candymuj1.json"
+            "name": "Candy",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json"
         },
         {
             "name": "道长",
@@ -269,7 +269,7 @@
             "url": "https://d.kstore.space/download/7672/nx.json"
         },
         {
-            "name": "最后更新时间:20240516",
+            "name": "最后更新时间:20240606",
             "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
