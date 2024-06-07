@@ -29,20 +29,12 @@
             "url": "https://zzzzz.tv/tv/tvbox.json"
         },
         {
-            "url": "http://xhww.fun/小米/DEMO.json",
-            "name": "👍小米"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米备用"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%A5%A3%E5%B0%8F%E7%B1%B3%E6%8E%A5%E5%8F%A3.txt",
+            "name": "小米"
         },
         {
             "name": "吾爱",
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
-        },
-        {
-            "name": "星辰",
-            "url": "http://8.210.232.168/xc.json"
         },
         {
             "name": "榴莲",
@@ -125,10 +117,6 @@
             "name": "少儿"
         },
         {
-            "url": "http://tt.iitvba.com/bata/教育.json",
-            "name": "教育"
-        },
-        {
             "url": "http://tt.iitvba.com/bata/老年戏曲.json",
             "name": "戏曲"
         },
@@ -145,24 +133,16 @@
             "name": "蚂蚁"
         },
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
-            "name": "欧歌"
-        },
-        {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
             "name": "欧歌4K"
         },
         {
-            "name": "乌鸦",
-            "url": "https://pan.shangui.cc/f/gyVYFV/乌鸦不太黑.json"
+            "name": "挺好",
+            "url": "http://ztha.top/TVBox/thdjk.json"
         },
         {
             "name": "小脑斧",
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json"
-        },
-        {
-            "name": "青木影视",
-            "url": "https://aoki.codered.cloud/spider"
         },
         {
             "name": "潇洒",
@@ -189,16 +169,8 @@
             "url": "https://gitee.com/tvkj/tw/raw/main/svip.json"
         },
         {
-            "name": "火影影视",
-            "url": "http://jar.lingutv.cn/tvbox/yw/yw.json"
-        },
-        {
-            "name": "影探",
-            "url": "http://www.lyyytv.cn/yt/yt.json"
-        },
-        {
             "name": "夜猫",
-            "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子"
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"
         },
         {
             "name": "dxawi",
@@ -217,8 +189,8 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/jsm.json"
         },
         {
-            "name": "恋影",
-            "url": "https://www.lianyingtv.com/fast/fast"
+            "name": "缝纫机",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json"
         },
         {
             "name": "小马",
@@ -233,15 +205,15 @@
             "url": "https://pastebin.com/raw/5NHaxyGR"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/YGBH/main/box.json",
             "name": "月光宝盒"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
             "name": "月光宝盒PRO"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
             "name": "月光VIP"
         },
         {
@@ -259,6 +231,22 @@
         {
             "name": "采集",
             "url": "http://router.bopop.buzz:9999/mdxgh.json"
+        },
+        {
+            "name": "雷蒙",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/%E9%9B%B7%E8%92%99%E5%BD%B1%E8%A7%86.bmp"
+        },
+        {
+            "name": "小美",
+            "url": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/xiaomeitv.json"
+        },
+        {
+            "name": "盐枭",
+            "url": "https://9xi4o.tk/tvbox.json"
+        },
+        {
+            "name": "炫猪",
+            "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
         },
         {
             "name": "以上接口长期维护，关注",
