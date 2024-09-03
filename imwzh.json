@@ -17,8 +17,8 @@
             "url": "https://m.n13.club"
         },
         {
-            "name": "拾光",
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip4K/main/4Kvip.json"
+            "name": "HG",
+            "url": "https://api.hgyx.vip/hgyx.json"
         },
         {
             "name": "失眠",
@@ -36,13 +36,13 @@
             "name": "吾爱",
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
         },
+        //{
+        //    "name": "榴莲",
+        //    "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
+        //},
         {
-            "name": "榴莲",
-            "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
-        },
-        {
-            "name": "无意",
-            "url": "http://www.wya6.cn/tv/yc.json"
+            "name": "小林(慢)",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
         {
             "name": "业余",
@@ -61,16 +61,8 @@
             "url": "https://盒子迷.top/禁止贩卖"
         },
         {
-            "url": "http://肥猫.live",
+            "url": "http://肥猫.com",
             "name": "肥猫"
-        },
-        {
-            "url": "https://json.qlkjy.cn/kj.json",
-            "name": "奇乐4K"
-        },
-        {
-            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-            "name": "OK"
         },
         {
             "url": "http://tvbox.王二小放牛娃.xyz",
@@ -81,16 +73,12 @@
             "name": "骚零"
         },
         {
-            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高天流云"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "name": "👍高天流云"
         },
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "👍香雅情"
-        },
-        {
-            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao/XYQ.json",
-            "name": "香雅情备用"
+            "name": "香雅情"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -101,16 +89,16 @@
             "name": "👍俊于"
         },
         {
-            "url": "http://rihou.vip:55/天天开心",
+            "url": "http://ttkx.live:55/天天开心",
             "name": "天天开心"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
             "name": "👍荷城茶秀"
         },
         {
-            "url": "https://jihulab.com/ruanjianheku/hekuys/-/raw/main/heku.json",
-            "name": "盒库"
+            "url": "http://xhztv.top/4k.json",
+            "name": "盒子4K"
         },
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -121,16 +109,16 @@
             "name": "戏曲"
         },
         {
-            "url": "https://xhdwc.tk/0",
-            "name": "大卫"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json",
+            "name": "番茄库"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "刘备"
         },
         {
-            "url": "https://d.kstore.space/download/2883/0110.txt",
-            "name": "蚂蚁"
+            "url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json",
+            "name": "时光机"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
@@ -149,12 +137,8 @@
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
         },
         {
-            "name": "神仙",
-            "url": "http://dp.sxtv.top:88/img"
-        },
-        {
-            "name": "太平洋",
-            "url": "http://sinopacifichk.com/box/56.txt"
+            "name": "六王爷",
+            "url": "http://www.0746lhl.top/box/lwytv.json"
         },
         {
             "url": "https://tv.菜妮丝.top",
@@ -182,7 +166,7 @@
         },
         {
             "name": "魔改",
-            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json"
         },
         {
             "name": "PG",
@@ -257,7 +241,7 @@
             "url": "https://d.kstore.space/download/7672/nx.json"
         },
         {
-            "name": "最后更新时间:20240606",
+            "name": "最后更新时间:20240901",
             "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
