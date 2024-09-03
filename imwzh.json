@@ -36,10 +36,10 @@
             "name": "吾爱",
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
         },
-        //{
-        //    "name": "榴莲",
-        //    "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
-        //},
+        {
+            "name": "小白",
+            "url": "http://bp.tvbox.cam/"
+        },
         {
             "name": "小林(慢)",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
