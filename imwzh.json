@@ -29,7 +29,7 @@
             "url": "https://zzzzz.tv/tv/tvbox.json"
         },
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/tvbox/master/%F0%9F%A5%A3%E5%B0%8F%E7%B1%B3%E6%8E%A5%E5%8F%A3.txt",
+            "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
             "name": "小米"
         },
         {
@@ -99,14 +99,6 @@
         {
             "url": "http://xhztv.top/4k.json",
             "name": "盒子4K"
-        },
-        {
-            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-            "name": "少儿"
-        },
-        {
-            "url": "http://tt.iitvba.com/bata/老年戏曲.json",
-            "name": "戏曲"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/tvbox/0326.json",
@@ -233,6 +225,26 @@
             "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
         },
         {
+            "name": "备用1",
+            "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+        {
+            "name": "备用2",
+            "url": "http://ok321.top/ok"
+        },
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "少儿"
+        },
+        {
+            "url": "http://tt.iitvba.com/bata/老年戏曲.json",
+            "name": "戏曲"
+        },
+        {
+            "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+            "name": "短剧"
+        },
+        {
             "name": "以上接口长期维护，关注",
             "url": "https://9xi4o.tk/0725.json"
         },
@@ -241,7 +253,7 @@
             "url": "https://d.kstore.space/download/7672/nx.json"
         },
         {
-            "name": "最后更新时间:20240901",
+            "name": "最后更新时间:20240908",
             "url": "http://ys.rjkmm.com/mmrjk.json"
         }
     ]
