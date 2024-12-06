@@ -45,10 +45,6 @@
             "url": "https://kjsc0310.github.io/tvy/jk9.json"
         },
         {
-            "name": "测试A",
-            "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json"
-        },
-        {
             "name": "业余",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
         },
@@ -107,6 +103,10 @@
         {
             "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json",
             "name": "茄子库"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+            "name": "茄子库2"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
