@@ -1,11 +1,19 @@
 {
 "urls": [
 {
+  "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/swhtv/111/main/秀色俱樂部",
+  "name": "A"
+},
+{
+  "url": "https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+  "name": "B"
+},
+{
   "url": "https://ghgo.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/zy.json",
   "name": "C"
 },
 {
-  "url": "https://pan.shangui.cc/f/myVAfb/%E5%A4%A7%E4%BA%BA%E5%BD%B1%E8%A7%86.json",
+  "url": "https://ghgo.xyz/https://raw.githubusercontent.com/gggwang/tvbox/master/%E5%9C%B0%E7%93%9C%E5%A6%B9%E5%A6%B9%F0%9F%8E%AF%E7%A6%8F%E5%88%A91%F0%9F%8E%AF.txt",
   "name": "D"
 },
 {
