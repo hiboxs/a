@@ -33,6 +33,10 @@
             "url": "https://zzzzz.tv/tv/tvbox.json"
         },
         {
+            "name": "南风",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+        {
             "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
             "name": "小米"
         },
@@ -133,10 +137,6 @@
             "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json"
         },
         {
-            "name": "潇洒",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
-        },
-        {
             "name": "六王爷",
             "url": "http://www.0746lhl.top/box/lwytv.json"
         },
@@ -169,10 +169,6 @@
             "url": "https://xn--qoqw77q.top"
         },
         {
-            "name": "PG",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/jsm.json"
-        },
-        {
             "name": "斧头",
             "url": "http://yuhuavip1.top/%E8%82%B2%E5%8D%8E%E5%AD%A6%E5%A0%82/%E6%96%A7%E5%A4%B4%E5%B8%AE.php"
         },
@@ -193,7 +189,7 @@
             "url": "http://xhztv.top/xhz.json"
         },
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
             "name": "七夏"
         },
         {
@@ -201,7 +197,7 @@
             "name": "环宇轩"
         },
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
             "name": "宝盒VIP"
         },
         {
@@ -209,7 +205,7 @@
             "name": "宝盒视界"
         },
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json",
             "name": "宝盒PRO"
         },
         {
@@ -261,18 +257,17 @@
             "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
         },
         {
-            "name": "南风",
-            "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+            "name": "喵喵",
+            "url": "http://meowtv.cn/tv"
         },
         {
             "name": "OK猫",
             "url": "http://ok321.top/ok"
         },
         {
-            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/b/main/bbqx/jf.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hiboxs/b/main/bbqx/jf.json",
             "name": "宝宝趣学"
-        },
-        {
+        },{
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "少儿"
         },
@@ -293,8 +288,8 @@
             "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json"
         },
         {
-            "name": "最后更新时间:20241225",
-            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
+            "name": "最后更新时间:20250119",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
         }
     ]
 }
