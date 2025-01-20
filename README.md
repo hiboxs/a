@@ -2,11 +2,13 @@
 
 
 
-集成接口(普通)：https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json
+集成接口(普通)：https://ghfast.top/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json
 
-集成接口(福利)：https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/a/main/h.json
+集成接口(福利)：https://ghfast.top/https://raw.githubusercontent.com/hiboxs/a/main/h.json
 
-CadVod电视测试接口：https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/a/main/tv.txt
+镜像加速域名：https://ghfast.top/     -----------  https://raw.gitmirror.com/   ----------  https://github.moeyy.xyz/
+
+~~CadVod电视测试接口：https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/a/main/tv.txt~~ 已失效不再提供
 
 ![关注公众号](https://raw.githubusercontent.com/hiboxs/a/main/image.png)
 
