@@ -1,18 +1,13 @@
 {
     "urls": [
         {
-            "url": "http://www.饭太硬.com/tv/",
+            "url": "http://www.饭太硬.net/tv/",
             "name": "👍饭太硬"
         },
         //{
-        //    "url": "http://我不是.摸鱼儿.com",
+        //    "url": "http://www.饭太硬.com/tv/",
         //    "name": "摸鱼"
         //},
-        //3月4日官方宣布停止服务
-        {
-            "name": "猫技",
-            "url": "https://m.n13.club"
-        },
         {
             "name": "HG",
             "url": "https://api.hgyx.vip/hgyx.json"
@@ -22,16 +17,8 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/hiboxs/c/main/xiaosa/api.json"
         },
         {
-           "name": "拾光",
-           "url": "https://9071.kstore.vip/fhzx.txt"
-        },
-        {
            "name": "拾光4K(卡)",
            "url": "https://notabug.org/hailin/shiguang/raw/main/4Kvip.json"
-        },
-        {
-           "name": "拾光备用",
-           "url": "https://tv.xn--yhqu5zs87a.top/"
         },
         {
             "name": "南风",
@@ -55,11 +42,7 @@
         },
         {
             "name": "业余",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
-        },
-        {
-            "name": "业余备用",
-            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json"
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
         },
         {
             "name": "巧技",
@@ -81,11 +64,6 @@
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "放牛"
         },
-        //{
-        //    "url": "https://100km.top/0",
-        //    "name": "飘零"
-        //},
-        //失效中
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
             "name": "👍高天流云"
@@ -115,10 +93,6 @@
             "name": "盒子4K"
         },
         {
-            "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
-            "name": "茄子库"
-        },
-        {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "刘备"
         },
@@ -127,7 +101,7 @@
             "name": "时光机"
         },
         {
-            "url": "https://欧歌.e.nxog.top/api.php?id=2",
+            "url": "https://xn--ckkc-rp5imh.v.nxog.top/api.php?id=3",
             "name": "欧歌"
         },
         {
@@ -231,10 +205,6 @@
             "url": "http://ok321.top/ok"
         },
         {
-            "name": "青龙",
-            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json"
-        },
-        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/hiboxs/b/main/bbqx/jf.json",
             "name": "宝宝趣学"
         },
@@ -263,7 +233,7 @@
             "url": "https://dxawi.github.io/0/0.json"
         },
         {
-            "name": "最后更新时间:20250309",
+            "name": "最后更新时间:20250404",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
         }
     ]
