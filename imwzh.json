@@ -4,10 +4,6 @@
             "url": "http://www.饭太硬.net/tv/",
             "name": "👍饭太硬"
         },
-        //{
-        //    "url": "http://www.饭太硬.com/tv/",
-        //    "name": "摸鱼"
-        //},
         {
             "name": "HG",
             "url": "https://api.hgyx.vip/hgyx.json"
