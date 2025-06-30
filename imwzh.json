@@ -1,16 +1,21 @@
-{
+﻿{
     "urls": [
         {
             "url": "http://www.饭太硬.net/tv/",
             "name": "👍饭太硬"
         },
+        //{
+        //    "url": "http://www.饭太硬.com/tv/",
+        //    "name": "摸鱼"
+        //},
         {
             "name": "HG",
             "url": "https://api.hgyx.vip/hgyx.json"
         },
         {
             "name": "潇洒",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/hiboxs/c/main/xiaosa/api.json"
+            "url": "https://9877.kstore.space/AnotherD/api.json"  
+            // https://ghproxy.net/https://raw.githubusercontent.com/hiboxs/c/main/xiaosa/api.json
         },
         {
            "name": "拾光4K(卡)",
@@ -18,10 +23,10 @@
         },
         {
             "name": "南风",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+            "url": "https://gh.ddlc.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
         {
-            "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json",
+            "url": "http://www.mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
             "name": "小米"
         },
         {
@@ -38,11 +43,11 @@
         },
         {
             "name": "业余",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"
         },
         {
             "name": "巧技",
-            "url": "http://pandown.pro/tvbox/tvbox.json"
+            "url": "http://cdn.qiaoji8.com/tvbox.json"
         },
         {
             "name": "毒盒",
@@ -60,12 +65,12 @@
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "放牛"
         },
+        //{
+        //    "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+        //    "name": "👍高天流云"
+        //},
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-            "name": "👍高天流云"
-        },
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情"
         },
         {
@@ -77,11 +82,11 @@
             "name": "👍俊于"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/maoystv/6/main/001.json",
             "name": "分享者"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
             "name": "👍荷城茶秀"
         },
         {
@@ -122,7 +127,7 @@
         },
         {
             "name": "️天微",
-            "url": "http://meowtv.top/tv"
+            "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json"
         },
         {
             "name": "夜猫",
@@ -134,7 +139,7 @@
         },
         {
             "name": "不良帅",
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json"
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"
         },
         {
             "name": "多多",
@@ -153,15 +158,11 @@
             "url": "https://git.acwing.com/cnlv/tv/-/raw/main/stronger.json"
         },
         {
-            "name": "小盒子",
-            "url": "http://xhztv.top/xhz.json"
-        },
-        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xzwei528/qixia/main/qixia.json",
             "name": "七夏"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xnftv/xnf/main/hyxuan.json",
             "name": "环宇轩"
         },
         {
@@ -181,10 +182,6 @@
             "name": "月光宝盒"
         },
         {
-            "name": "码点小干货",
-            "url": "http://mdxgh.tpddns.cn:9999/mdxgh.json"
-        },
-        {
             "name": "盐枭",
             "url": "https://9xi4o.tk/tvbox.json"
         },
@@ -192,10 +189,7 @@
             "name": "小苹果",
             "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
         },
-        {
-            "name": "喵影视",
-            "url": "http://meowtv.cn/tv"
-        },
+
         {
             "name": "OK猫",
             "url": "http://ok321.top/ok"
@@ -229,7 +223,7 @@
             "url": "https://dxawi.github.io/0/0.json"
         },
         {
-            "name": "最后更新时间:20250404",
+            "name": "最后更新时间:20250630",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json"
         }
     ]
