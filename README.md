@@ -1,12 +1,8 @@
 接口均来自各大神线路。本接口仅做集成，未修改任何内容。by [imwzh](https://www.imwzh.com)
 
-
-
 集成接口(普通)：https://ghfast.top/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json
 
-集成接口(福利)：https://ghfast.top/https://raw.githubusercontent.com/hiboxs/a/main/h.json
-
-镜像加速域名：https://ghfast.top/     -----------  https://raw.gitmirror.com/   ----------  https://github.moeyy.xyz/
+可选镜像加速域名：https://ghfast.top/     ----------- https://hub.gitmirror.com/   ----------  https://raw.bgithub.xyz/ ---------- https://gh-proxy.com/
 
 ~~CadVod电视测试接口：https://ghgo.xyz/https://raw.githubusercontent.com/hiboxs/a/main/tv.txt~~ 已失效不再提供
 
@@ -23,7 +19,7 @@ https://www.123pan.com/s/zjv9-2HIo3.html  提取码:wuuu
 
 
 
-【电视端】Tvbox-5.0.25
+【电视端】Tvbox-5.0.25 
 
 https://pan.quark.cn/s/dc20649c5e7a
 
@@ -36,6 +32,7 @@ https://www.123pan.com/s/zjv9-NHIo3.html 提取码:wuuu
 https://pan.quark.cn/s/a6b16d4c787c
 
 https://www.123pan.com/s/zjv9-8HIo3.html
+
 
 
 
